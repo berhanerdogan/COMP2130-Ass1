@@ -42,7 +42,7 @@ This project was built as a practice exercise for:
    ```
 2. Compile the project:  
    ```bash
-   javac -d out src/org/example/*.java
+   javac -d out src/org/example/Main.java
    ```
 3. Run the program:  
    ```bash
