@@ -38,7 +38,7 @@ This project was built as a practice exercise for:
 ## ▶️ How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/student-manager.git
+   git clone https://github.com/berhanerdogan/COMP2130-Ass1.git
    ```
 2. Compile the project:  
    ```bash
